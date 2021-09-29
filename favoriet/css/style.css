@@ -1,11 +1,14 @@
-body {
+ body {
     background-image: url(../imgs/back.jpg); 
  background-position: center;  
  background-repeat: no-repeat;
     background-size: cover;}
 
 
-
+menu{
+  
+   
+}
 
 #paragraaf1 {
     font-size: 30px;
